@@ -45,7 +45,7 @@
 .preco-item ul {
 	max-width: 300px;
 	margin: 20px auto;
-	font-size: 1.25em;
+	font-size: 1.25rem;
 	font-style: italic;
 	color: #575757;
 }
@@ -74,7 +74,7 @@
 	color: #222222;
 	text-transform: uppercase;
 	font-weight: bold;
-	font-size: 2.25em;
+	font-size: 2rem;
 	padding: 15px 0;
 	text-align: center;
 }
