@@ -1,0 +1,40 @@
+.produtos {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 60px 15px;
+}
+
+.produtos h2 {
+    font-size: 3rem;
+    margin: 0 10px 40px 10px;
+}
+
+.produtos-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: flex-end;
+}
+
+.produtos-item {
+    flex: 1 1 175px;
+}
+
+.produtos-item h3 {
+    font-size: 3rem;
+    color: #8d8d8d;
+    background-color: #f7f7f7;
+    padding: 60px 10px;
+}
+
+.purple {
+    border-top: 8px solid #ae81ff;
+}
+
+.pink {
+    border-top: 8px solid #f9265e;
+}
+
+.blue {
+    border-top: 8px solid #66d9eb;
+}
