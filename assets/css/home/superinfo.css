@@ -1,0 +1,23 @@
+.super-info-bg {
+    background-color: #122ab2;
+    color: white;
+}
+
+.super-info {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+    gap: 12px;
+}
+
+.super-info p, 
+.super-info a {
+    padding: 10px;
+}
+
+.super-info a:hover {
+    color: #2c70ff;
+}
