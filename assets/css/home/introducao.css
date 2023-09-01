@@ -1,0 +1,40 @@
+.introducao {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.introducao h1 {
+    font-size: 3rem;
+    line-height: 1;
+    padding: 60px 0;
+}
+
+.sobre {
+    border-top: 2px solid #2c70ff;
+    border-bottom: 2px solid #2c70ff;
+    padding: 60px 0;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.sobre-info {
+    flex: 2 1 300px;
+}
+
+.sobre-info h2{
+    font-size: 3rem;
+    margin-bottom: .5rem;
+}
+
+.sobre-info p{
+    font-size: 1.25rem;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    color: #7c7c7c;
+}
+
+.sobre-img {
+    flex: 1 1 160px;
+}
